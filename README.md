@@ -1,2 +1,2 @@
-# Android_test_task_Goozix
- Android test task Goozix: Rest client Api github 
+# Android_github_client
+Android github client: Rest client Api github 
